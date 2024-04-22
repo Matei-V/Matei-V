@@ -3,3 +3,4 @@
 📖 Reading "Concreat Mathematics: A Foundation for Computer Science". <br>
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width=30px height=30px>
+<p>the GOAT</p>

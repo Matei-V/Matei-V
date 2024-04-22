@@ -1,5 +1,5 @@
-🏅 Busy, currently solving IOI problems.
-🌱 I’m currently learning to deal with the voices in my head.
-📖 Reading "Concreat Mathematics: A Foundation for Computer Science".
+🏅 Busy, currently solving IOI problems. <br>
+🌱 I’m currently learning to deal with the voices in my head. <br>
+📖 Reading "Concreat Mathematics: A Foundation for Computer Science". <br>
 
 

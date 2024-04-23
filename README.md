@@ -9,4 +9,5 @@
 </p>
 
 Chad Dvorak layout user.
-<img src='https://www.researchgate.net/profile/Kathryn-Hempstalk/publication/237105161/figure/fig4/AS:299280796536833@1448365510073/The-Dvorak-Simplified-Keyboard-layout.png' width=80px height=40px>
+
+>Power Point is the best game engine.

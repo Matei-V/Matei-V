@@ -11,7 +11,8 @@
 Chad Dvorak layout user.
 
 >Power Point is the best game engine.
-<br>
-```cpp
-#define NMAX 1000
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```

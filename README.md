@@ -12,4 +12,6 @@ Chad Dvorak layout user.
 
 >Power Point is the best game engine.
 <br>
-```#define NMAX 1000```
+```cpp
+#define NMAX 1000
+```

@@ -8,7 +8,7 @@
 <img src='https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png' width=40px height=40px>
 </p>
 
-<p style='font-size:30;'>⌨️ Dvorak</p>
+<p style='font-size:100px;'>⌨️ Dvorak</p>
 
 >Power Point is the best game engine.
 ```cpp

@@ -1,6 +1,6 @@
 🎛️​ Automation and control engineering student. <br>
 🌱 I’m currently learning to deal with the voices in my head. <br>
-📖 Reading "S. Stoilow: Teoria funcțiior de o variabilă complexă.". <br>
+📖 Reading "O. Stănișilă, D. Stanomir: Metode matematice în Teoria semanlelor". <br>
 🥈 2 times in a row 2nd place at OTI(Romanian Olympiad of Technology) <br>
 🤖 Member of MironoBot FTC team.
 
